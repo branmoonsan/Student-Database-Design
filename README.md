@@ -13,7 +13,7 @@ To solve this problem, I designed and built a relational database in Excel by co
 ***
 
 ## Database Screenshots
-### Student Entity
+### Students Entity
 <img width="750" alt="image" src="https://github.com/branmoonsan/Student-Database-Design/blob/main/img/Screenshot%202026-08-03%20at%2016.59.59.png">
 
 ### Program_Enrolment Entity
