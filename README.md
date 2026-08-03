@@ -7,7 +7,7 @@ Designed and built a centralized relational student management database in Googl
 
 ## Project Overview
 
-During my time at A Team Academy, student registrations were collected through multiple Google Forms across different training programs over six years. Student information became scattered across numerous spreadsheets.
+During my time at [A Team Academy](https://ateamacademy.org/), student registrations were collected through multiple Google Forms across different training programs over six years. Student information became scattered across numerous spreadsheets.
 To solve this problem, I designed and built a relational database in Excel by consolidating all historical registration data into a centralized database.
 
 ***
